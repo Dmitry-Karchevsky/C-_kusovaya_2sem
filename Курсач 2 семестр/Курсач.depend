@@ -1,0 +1,379 @@
+# depslib dependency file v1.0
+1528218878 source:d:\dima\programs(cb)\Курсач\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Base.h"
+	"MuseumFactory.h"
+	"ExhibitionFactory.h"
+	"TicketFactory.h"
+	"AddMuseumWindow.h"
+	"ShowMuseumWindow.h"
+	"AddExhibitionWindow.h"
+	"ShowExhibitionWindow.h"
+	"DeleteMuseumWindow.h"
+	"DeleteExhibitionWindow.h"
+
+1526737718 source:d:\dima\programs(cb)\Курсач\src\museum.cpp
+	"Museum.h"
+
+1528214953 d:\dima\programs(cb)\Курсач\include\museum.h
+	<iostream>
+
+1528214953 d:\dima\programs(cb)\Курсач\include\exhibition.h
+	<iostream>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Museum.h"
+	"Date.h"
+
+1528192743 d:\dima\programs(cb)\Курсач\include\addmuseumwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"MuseumFactory.h"
+
+1528094425 d:\dima\programs(cb)\Курсач\include\museumfactory.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Museum.h"
+	"Base.h"
+
+1527500665 source:d:\dima\programs(cb)\Курсач\src\addmuseumwindow.cpp
+	"AddMuseumWindow.h"
+
+1528195083 source:d:\dima\programs(cb)\Курсач\src\exhibition.cpp
+	"Exhibition.h"
+
+1530291102 source:d:\dima\programs(cb)\Курсач\src\museumfactory.cpp
+	"MuseumFactory.h"
+
+1528194582 source:d:\dima\programs(cb)\Курсач\src\ticket.cpp
+	"Ticket.h"
+
+1528192743 d:\dima\programs(cb)\Курсач\include\ticket.h
+	"Exhibition.h"
+
+1528094425 d:\dima\programs(cb)\Курсач\include\showmuseumwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"MuseumFactory.h"
+	"Base.h"
+
+1527501381 source:d:\dima\programs(cb)\Курсач\src\showmuseumwindow.cpp
+	"ShowMuseumWindow.h"
+
+1528192743 d:\dima\programs(cb)\Курсач\include\addexhibitionwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"ExhibitionFactory.h"
+
+1528192743 d:\dima\programs(cb)\Курсач\include\exhibitionfactory.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Exhibition.h"
+	"Base.h"
+
+1528094425 d:\dima\programs(cb)\Курсач\include\showexhibitionwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"ExhibitionFactory.h"
+	"Base.h"
+
+1528097389 source:d:\dima\programs(cb)\Курсач\src\addexhibitionwindow.cpp
+	"AddExhibitionWindow.h"
+
+1528210729 source:d:\dima\programs(cb)\Курсач\src\exhibitionfactory.cpp
+	"ExhibitionFactory.h"
+
+1527501350 source:d:\dima\programs(cb)\Курсач\src\showexhibitionwindow.cpp
+	"ShowExhibitionWindow.h"
+
+1528178350 d:\dima\programs(cb)\Курсач\include\base.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Museum.h"
+	"Exhibition.h"
+	"Ticket.h"
+
+1527155455 source:d:\dima\programs(cb)\Курсач\src\base.cpp
+	"Base.h"
+
+1528094425 d:\dima\programs(cb)\Курсач\include\deletemuseumwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"MuseumFactory.h"
+	"Base.h"
+
+1527512102 source:d:\dima\programs(cb)\Курсач\src\deletemuseumwindow.cpp
+	"DeleteMuseumWindow.h"
+
+1528094425 d:\dima\programs(cb)\Курсач\include\deleteexhibitionwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"ExhibitionFactory.h"
+	"Base.h"
+
+1527514166 source:d:\dima\programs(cb)\Курсач\src\deleteexhibitionwindow.cpp
+	"DeleteExhibitionWindow.h"
+
+1528038649 d:\dima\programs(cb)\Курсач\include\allincludes.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Date.h"
+	"Museum.h"
+	"Exhibition.h"
+	"Ticket.h"
+	"Base.h"
+	"ExhibitionFactory.h"
+	"MuseumFactory.h"
+	"TicketFactory.h"
+	"AddMuseumWindow.h"
+	"ShowMuseumWindow.h"
+	"AddExhibitionWindow.h"
+	"ShowExhibitionWindow.h"
+	"DeleteMuseumWindow.h"
+	"DeleteExhibitionWindow.h"
+
+1527515048 source:d:\dima\programs(cb)\Курсач\src\allincludes.cpp
+	"AllIncludes.h"
+
+1528094425 d:\dima\programs(cb)\Курсач\include\ticketfactory.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Ticket.h"
+	"Base.h"
+
+1527970678 source:d:\dima\programs(cb)\Курсач\src\ticketfactory.cpp
+	"TicketFactory.h"
+
+1528094425 d:\dima\programs(cb)\Курсач\include\date.h
+	<iostream>
+
+1528195055 source:d:\dima\programs(cb)\Курсач\src\date.cpp
+	"Date.h"
+
+1528218878 source:d:\dima\code_blocks_programs\Курсач\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Base.h"
+	"MuseumFactory.h"
+	"ExhibitionFactory.h"
+	"TicketFactory.h"
+	"AddMuseumWindow.h"
+	"ShowMuseumWindow.h"
+	"AddExhibitionWindow.h"
+	"ShowExhibitionWindow.h"
+	"DeleteMuseumWindow.h"
+	"DeleteExhibitionWindow.h"
+
+1528178350 d:\dima\code_blocks_programs\Курсач\include\base.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Museum.h"
+	"Exhibition.h"
+	"Ticket.h"
+
+1528214953 d:\dima\code_blocks_programs\Курсач\include\museum.h
+	<iostream>
+
+1528214953 d:\dima\code_blocks_programs\Курсач\include\exhibition.h
+	<iostream>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Museum.h"
+	"Date.h"
+
+1528094425 d:\dima\code_blocks_programs\Курсач\include\date.h
+	<iostream>
+
+1528192743 d:\dima\code_blocks_programs\Курсач\include\ticket.h
+	"Exhibition.h"
+
+1528094425 d:\dima\code_blocks_programs\Курсач\include\museumfactory.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Museum.h"
+	"Base.h"
+
+1528192743 d:\dima\code_blocks_programs\Курсач\include\exhibitionfactory.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Exhibition.h"
+	"Base.h"
+
+1528094425 d:\dima\code_blocks_programs\Курсач\include\ticketfactory.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Ticket.h"
+	"Base.h"
+
+1528192743 d:\dima\code_blocks_programs\Курсач\include\addmuseumwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"MuseumFactory.h"
+
+1528094425 d:\dima\code_blocks_programs\Курсач\include\showmuseumwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"MuseumFactory.h"
+	"Base.h"
+
+1528192743 d:\dima\code_blocks_programs\Курсач\include\addexhibitionwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"ExhibitionFactory.h"
+
+1528094425 d:\dima\code_blocks_programs\Курсач\include\showexhibitionwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"ExhibitionFactory.h"
+	"Base.h"
+
+1528094425 d:\dima\code_blocks_programs\Курсач\include\deletemuseumwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"MuseumFactory.h"
+	"Base.h"
+
+1528094425 d:\dima\code_blocks_programs\Курсач\include\deleteexhibitionwindow.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"ExhibitionFactory.h"
+	"Base.h"
+
+1528097389 source:d:\dima\code_blocks_programs\Курсач\src\addexhibitionwindow.cpp
+	"AddExhibitionWindow.h"
+
+1527500665 source:d:\dima\code_blocks_programs\Курсач\src\addmuseumwindow.cpp
+	"AddMuseumWindow.h"
+
+1527515048 source:d:\dima\code_blocks_programs\Курсач\src\allincludes.cpp
+	"AllIncludes.h"
+
+1528038649 d:\dima\code_blocks_programs\Курсач\include\allincludes.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	"Date.h"
+	"Museum.h"
+	"Exhibition.h"
+	"Ticket.h"
+	"Base.h"
+	"ExhibitionFactory.h"
+	"MuseumFactory.h"
+	"TicketFactory.h"
+	"AddMuseumWindow.h"
+	"ShowMuseumWindow.h"
+	"AddExhibitionWindow.h"
+	"ShowExhibitionWindow.h"
+	"DeleteMuseumWindow.h"
+	"DeleteExhibitionWindow.h"
+
+1527155455 source:d:\dima\code_blocks_programs\Курсач\src\base.cpp
+	"Base.h"
+
+1528195055 source:d:\dima\code_blocks_programs\Курсач\src\date.cpp
+	"Date.h"
+
+1527514166 source:d:\dima\code_blocks_programs\Курсач\src\deleteexhibitionwindow.cpp
+	"DeleteExhibitionWindow.h"
+
+1527512102 source:d:\dima\code_blocks_programs\Курсач\src\deletemuseumwindow.cpp
+	"DeleteMuseumWindow.h"
+
+1528195083 source:d:\dima\code_blocks_programs\Курсач\src\exhibition.cpp
+	"Exhibition.h"
+
+1528210729 source:d:\dima\code_blocks_programs\Курсач\src\exhibitionfactory.cpp
+	"ExhibitionFactory.h"
+
+1526737718 source:d:\dima\code_blocks_programs\Курсач\src\museum.cpp
+	"Museum.h"
+
+1530291102 source:d:\dima\code_blocks_programs\Курсач\src\museumfactory.cpp
+	"MuseumFactory.h"
+
+1527501350 source:d:\dima\code_blocks_programs\Курсач\src\showexhibitionwindow.cpp
+	"ShowExhibitionWindow.h"
+
+1527501381 source:d:\dima\code_blocks_programs\Курсач\src\showmuseumwindow.cpp
+	"ShowMuseumWindow.h"
+
+1528194582 source:d:\dima\code_blocks_programs\Курсач\src\ticket.cpp
+	"Ticket.h"
+
+1527970678 source:d:\dima\code_blocks_programs\Курсач\src\ticketfactory.cpp
+	"TicketFactory.h"
+
